@@ -19,11 +19,17 @@ This project is a simple **React** application where the user and the computer r
 - **Git**: For version control and repository management.
 - **GitHub**: For hosting the project repository.
 
+## Live Demo 🌐
+
+Check out the live version of the Dice Game here:
+
+**[Live Demo on Netlify](https://nimble-cucurucho-0db858.netlify.app)**
+
 ## Screenshots 🖼️
 
 ### Game Screen
 
-![Dice Game Screenshot](/public/images/DİceGame.png)
+![Dice Game Screenshot](/public/images/DiceGame.png)
 
 ## How to Play 🎮
 
